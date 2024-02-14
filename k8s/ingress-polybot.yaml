@@ -1,0 +1,21 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: amiraniv-polybot-ingress
+spec:
+  ingressClassName: nginx
+  tls:
+  - hosts:
+    - amiraniv-polybot.devops-int-college.com
+    secretName: amiraniv-polybot-tls
+  rules:
+  - host: amiraniv-polybot.devops-int-college.com
+    http:
+      paths:
+      - pathType: Prefix
+        path: /
+        backend:
+          service:
+            name: telegram-bot-service
+            port:
+              number: 8443
