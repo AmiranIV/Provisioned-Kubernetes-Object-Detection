@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Grafana-%232496ED.svg?style=flat-square&logo=Jenkins&logoColor=white" alt="Grafana">
   </a>
   <a href="https://linux.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Linux-%232496ED.svg?style=flat-square&logo=Jenkins&logoColor=white" alt="Linux">
+    <img src="https://img.shields.io/badge/Linux-%23FF9900.svg?style=flat-square&logo=Jenkins&logoColor=white" alt="Linux">
   </a>
 
 
