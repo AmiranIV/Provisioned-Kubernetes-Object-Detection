@@ -52,8 +52,7 @@ I've successfully completed a project where I deployed an Object Detection Servi
 
 * Service Monitoring: For robust monitoring, I deployed Grafana integrated with AWS CloudWatch and a database for log management using FluentD. I also set up Prometheus for detailed cluster metrics, including custom dashboards for node health and Nginx ingress controller metrics.
 
-####  This project not only honed my skills in Kubernetes deployment and management but also in integrating various AWS services and monitoring tools 
-for a comprehensive cloud-native solution.
+#### This project not only honed my skills in Kubernetes deployment and management but also in integrating various AWS services and monitoring tools for a comprehensive cloud-native solution.
 
 ---
 
