@@ -1,8 +1,7 @@
 ### Production-quality Kubernetes cluster build by hands using EC2 instances, then deploy the Object Detection Service in it, in addition to a few more observability tools.
 
 #### Technologies used:
-
-<p align="center">
+<p align="left">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white" alt="Python">
   <a href="https://www.docker.com/" target="_blank">
