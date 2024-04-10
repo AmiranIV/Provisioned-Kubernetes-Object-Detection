@@ -24,4 +24,7 @@ Telegram Integration: I integrated the service with Telegram using an Nginx ingr
 
 Service Monitoring: For robust monitoring, I deployed Grafana integrated with AWS CloudWatch and a database for log management using FluentD. I also set up Prometheus for detailed cluster metrics, including custom dashboards for node health and Nginx ingress controller metrics.
 
-This project not only honed my skills in Kubernetes deployment and management but also in integrating various AWS services and monitoring tools for a comprehensive cloud-native solution.
+This project not only honed my skills in Kubernetes deployment and management but also in integrating various AWS services and monitoring tools 
+for a comprehensive cloud-native solution.
+
+![WhatsApp Image 2024-03-31 at 15 36 03](https://github.com/AmiranIV/Provisioned-K8s-Object-Detection/assets/109898333/70967fab-3319-44e8-bf06-15ed45df1f44)
