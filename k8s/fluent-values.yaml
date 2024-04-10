@@ -1,0 +1,16 @@
+configMapConfigs:
+  - fluentd-prometheus-conf
+plugins:
+- fluent-plugin-cloudwatch-logs
+
+fileConfigs:
+  04_outputs.conf: |-
+    <label @OUTPUT>
+      <match **>
+        @type cloudwatch_logs
+        region eu-north-1
+        log_group_name fluentd-amiraniv-metahanefesh-lg-name
+        log_stream_name fluentd-amiraniv-metahanefesh-lg-stream
+        auto_create_stream true
+      </match>
+    </label>
