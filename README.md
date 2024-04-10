@@ -1,5 +1,33 @@
 ### Production-quality Kubernetes cluster build by hands using EC2 instances, then deploy the Object Detection Service in it, in addition to a few more observability tools.
 
+#### Technologies used:
+
+<p align="center">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  </a>
+  <a href="https://github.com/features/actions" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions">
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS">
+  </a>
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Kubernetes-%231572B6.svg?style=flat-square&logo=Jenkins&logoColor=white" alt="Kubernete">
+  </a>
+  <a href="https://grafana.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Grafana-%232496ED.svg?style=flat-square&logo=Jenkins&logoColor=white" alt="Grafana">
+  </a>
+  <a href="https://linux.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Linux-%232496ED.svg?style=flat-square&logo=Jenkins&logoColor=white" alt="Linux">
+  </a>
+
+
+</p>
+
+
 ![image](https://github.com/AmiranIV/Provisioned-K8s-Object-Detection/assets/109898333/2611878c-8d3e-4840-af2b-c08e060c5827)
 
 I've successfully completed a project where I deployed an Object Detection Service in a Kubernetes cluster. This project involved several key stages:
