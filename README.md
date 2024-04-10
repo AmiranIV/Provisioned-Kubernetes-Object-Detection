@@ -54,6 +54,22 @@ Service Monitoring: For robust monitoring, I deployed Grafana integrated with AW
 
 This project not only honed my skills in Kubernetes deployment and management but also in integrating various AWS services and monitoring tools 
 for a comprehensive cloud-native solution.
+---
+Resources links:
+
+* Container Runtime - https://kubernetes.io/docs/setup/production-environment/container-runtimes/
+
+* Kubeadm install - https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/
+
+* Cloud provider aws - https://github.com/kubernetes/cloud-provider-aws
+
+* Network Plugins - https://kubernetes.io/docs/concepts/extend-kubernetes/compute-storage-net/network-plugins/
+
+* Installing Calico - https://docs.tigera.io/calico/latest/getting-started/kubernetes/self-managed-onprem/onpremises#install-calico
+
+* Kubernetes Dashboard - https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/
+
+* Generate self signed certificate - https://core.telegram.org/bots/webhooks#a-self-signed-certificate
 
 ---
 
