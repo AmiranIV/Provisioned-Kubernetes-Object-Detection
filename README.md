@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker">
   </a>
   <a href="https://github.com/features/actions" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions">
+    <img src="https://img.shields.io/badge/GitHub-232671E5.svg?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub">
   </a>
   <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS">
@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Linux-%23FF9900.svg?style=flat-square&logo=Jenkins&logoColor=white" alt="Linux">
   </a>
    <a href="https://prometheus.io" target="_blank">
-    <img src="https://img.shields.io/badge/prometheus-%232496ED.svg?style=flat-square&logo=Jenkins&logoColor=white" alt="Prometheus">
+    <img src="https://img.shields.io/badge/prometheus-%232671E5.svg?style=flat-square&logo=Jenkins&logoColor=white" alt="Prometheus">
   </a>
 
 
