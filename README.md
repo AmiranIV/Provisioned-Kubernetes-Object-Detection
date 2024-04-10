@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Linux-%23FF9900.svg?style=flat-square&logo=Jenkins&logoColor=white" alt="Linux">
   </a>
    <a href="https://prometheus.io" target="_blank">
-    <img src="https://img.shields.io/badge/prometheus-%232671E5.svg?style=flat-square&logo=Jenkins&logoColor=white" alt="Prometheus">
+    <img src="https://img.shields.io/badge/prometheus-%2314354C.svg?style=flat-square&logo=Jenkins&logoColor=white" alt="Prometheus">
   </a>
 
 
