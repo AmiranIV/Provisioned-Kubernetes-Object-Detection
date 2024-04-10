@@ -1,5 +1,5 @@
 ### Production-quality Kubernetes cluster build by hands using EC2 instances, then deploy the Object Detection Service in it, in addition to a few more observability tools.
-
+---
 #### Technologies used:
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
@@ -26,6 +26,7 @@
 
 </p>
 
+---
 
 ![image](https://github.com/AmiranIV/Provisioned-K8s-Object-Detection/assets/109898333/2611878c-8d3e-4840-af2b-c08e060c5827)
 
@@ -53,5 +54,7 @@ Service Monitoring: For robust monitoring, I deployed Grafana integrated with AW
 
 This project not only honed my skills in Kubernetes deployment and management but also in integrating various AWS services and monitoring tools 
 for a comprehensive cloud-native solution.
+
+---
 
 ![WhatsApp Image 2024-03-31 at 15 36 03](https://github.com/AmiranIV/Provisioned-K8s-Object-Detection/assets/109898333/70967fab-3319-44e8-bf06-15ed45df1f44)
