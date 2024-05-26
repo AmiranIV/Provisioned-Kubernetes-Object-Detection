@@ -47,7 +47,7 @@ I've successfully completed a project where I deployed an Object Detection Servi
 
 * Worker Node Joining: After setting up another Ubuntu EC2 instance with necessary roles and security measures, I replicated the control plane setup steps and joined this new machine to the cluster as a worker node.
 
-* Cluster Addons Installation: I implemented a solution for automatically updating ECR credentials in the cluster and installed the EBS CSI driver for managing EBS volumes. Additionally, I deployed the Kubernetes Dashboard and configured token-based access for security.
+* Cluster Addons Installation: I installed the EBS CSI driver for managing EBS volumes. Additionally, I deployed the Kubernetes Dashboard and configured token-based access for security.
 
 * Object Detection Service Deployment: With the cluster up and running, I deployed the Object Detection Service. This involved creating a GitHub repo for source code management, storing Docker images in DockerHub, and crafting YAML manifests for the polybot and yolo5 microservices. Key considerations were liveness and readiness probes, resource management, autoscaling based on CPU utilization, and graceful service termination.
 
